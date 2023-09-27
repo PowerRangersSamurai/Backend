@@ -1,0 +1,19 @@
+{
+  "name": "sih2023",
+  "version": "1.0.0",
+  "description": "Sih hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gagan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1"
+  }
+}
