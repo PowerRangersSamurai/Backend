@@ -8,7 +8,7 @@ const connectDB = async(host, port, user, password) => {
         password: password
     });
 
-    return db;
+    // return db;
     
     db.connect((err) => {
         if(err) {
